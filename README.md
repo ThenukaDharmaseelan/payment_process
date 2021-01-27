@@ -8,7 +8,7 @@ run the following command to do so.
     
     git clome https://github.com/ThenukaDharmaseelan/payment_process.git
     
-   2. cd `filed_payments`
+   2. cd `payment_process`
    3. run command `pipenv install`
    4. run to go in virtual environment, inside the project run command `pipenv shell`
    5. run command to run the flask server `flask run`
