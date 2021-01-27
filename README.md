@@ -22,12 +22,3 @@ run the following command to do so.
    3. Activate python environment, `pipenv shell`
    4. run comands: `pytest test_external_payment.py`
    
- ### Shortcoming OR consideration 
- 
- 1. ExpirationDate format is `yyyy/mm/dd` not `mm/dd` as found in the credit card usually.
- 2. Testing of external payment gate should be done with there api (i don't know how to test that part without there api, if anyone know i would learn to do that).
- 
- ### Note
- 
- if you find this project help you to create the assignment in anyway, please fork or click on watch this project
- i will be really happy :D. 
